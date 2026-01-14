@@ -13,19 +13,6 @@ Desenvolvedor focado em construir a base da web com **HTML, CSS e JavaScript**. 
 </p>
 
 ---
-### 📊 Minhas Estatísticas
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PabloVeiga&show_icons=true&theme=tokyonight" alt="Estatísticas do GitHub" />
-  
-  <br>
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PabloVeiga&layout=compact&theme=tokyonight" alt="Linguagens mais usadas" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PabloVeiga&theme=tokyonight" alt="GitHub Streak" />
-</p>
 
 ### 📫 Vamos nos conectar?
 <p align="left">
