@@ -15,6 +15,15 @@ Busco evoluir por meio de projetos práticos, desafios técnicos e estudo contí
 
 ---
 
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=PabloVeiga1&show_icons=true&theme=dark&hide_border=true&title_color=61dafb&icon_color=61dafb&text_color=ffffff&bg_color=0d1117" height="170" alt="Estatísticas" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=PabloVeiga1&layout=compact&theme=dark&hide_border=true&title_color=61dafb&text_color=ffffff&bg_color=0d1117" height="170" alt="Linguagens" />
+</p>
+
+---
+
 ### 📫 Vamos nos conectar?
 <p align="left">
   <a href="https://linkedin.com/in/https://www.linkedin.com/in/pablo-vinicius-costa-veiga target="_blank">
@@ -24,3 +33,4 @@ Busco evoluir por meio de projetos práticos, desafios técnicos e estudo contí
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
 </p>
+
