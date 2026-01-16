@@ -29,7 +29,7 @@ Busco evoluir por meio de projetos práticos, desafios técnicos e estudo contí
   <a href="https://www.linkedin.com/in/pablo-vinicius-costa-veiga-65871937a/">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a> 
-  <a href="mailto:pablocostaveiga@gmail.com" target="_blank">
+  <a href="pablocostaveiga@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
 </p>
