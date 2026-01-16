@@ -1,4 +1,5 @@
 # 👨🏻‍💻 Pablo Veiga
+Desenvolvedor em formação | Aluno do IFAL 🚀
 
 Sou um desenvolvedor em aprendizado com foco em Full Stack, dedicado a construir uma base sólida tanto no front-end quanto no back-end. Estou constantemente estudando e praticando para aprimorar minhas habilidades em desenvolvimento web, lógica de programação e boas práticas de código.
 
