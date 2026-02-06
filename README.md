@@ -19,7 +19,7 @@ Busco evoluir por meio de projetos práticos, desafios técnicos e estudo contí
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img https://skillicons.dev/icons?i=html,css,js,git,github,python,react,tailwind>
+  <img https://skillicons.dev/icons?i=html,css,js,git,github,python,react,tailwind></img>
 </p>
 
 ---
