@@ -34,4 +34,11 @@ Busco evoluir por meio de projetos práticos, desafios técnicos e estudo contí
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
 </p>
+<br>
+<br>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Dev+Front-End" />
+  <br>
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
 
