@@ -10,7 +10,7 @@ Busco evoluir por meio de projetos práticos, desafios técnicos e estudo contí
 ### 🛠 Minha Stack Atual
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,git" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,git" />
   </a>
 </p>
 
