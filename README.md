@@ -18,7 +18,7 @@ Busco evoluir por meio de projetos práticos, desafios técnicos e estudo contí
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=node,express,mysql" />
+    <img src="https://skillicons.dev/icons?i=nodejs,express,mysql" />
   </a>
 </p>
 
