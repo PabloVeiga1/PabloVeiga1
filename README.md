@@ -7,7 +7,9 @@ Busco evoluir por meio de projetos práticos, desafios técnicos e estudo contí
 
 ---
 
-** 🛠 Minha Stack Atual
+### 🛠 Minha Stack Atual
+
+**Linguagens & Front-end**
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,react" />
