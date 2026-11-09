@@ -14,6 +14,13 @@ Busco evoluir por meio de projetos práticos, desafios técnicos e estudo contí
   </a>
 </p>
 
+**Ferramentas & Deploy**
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" title="Git"/>
+  <img src="https://cdn.simpleicons.org/github/888888" width="40" title="GitHub"/>
+  <img src="https://cdn.simpleicons.org/vercel/888888" width="40" title="Vercel"/>
+</p>
 ---
 
 ### 📊 GitHub Stats
