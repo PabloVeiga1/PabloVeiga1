@@ -17,18 +17,17 @@ Busco evoluir por meio de projetos práticos, desafios técnicos e estudo contí
 **Back-end & Banco de dados**
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" title="Node.js"/>
-  <img src="https://cdn.simpleicons.org/express/888888" width="40" title="Express"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" title="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" title="MySQL"/>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=node,express,mysql" />
+  </a>
 </p>
 
 **Ferramentas & Deploy**
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" title="Git"/>
-  <img src="https://cdn.simpleicons.org/github/888888" width="40" title="GitHub"/>
-  <img src="https://cdn.simpleicons.org/vercel/888888" width="40" title="Vercel"/>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,vercel" />
+  </a>
 </p>
 ---
 
